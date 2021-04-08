@@ -4,9 +4,12 @@ Intentaremos hacer el conocidisimo juego del Trivial con preguntas relacionadas 
 
 ## Integrantes del equipo
 
-Lucia Alvarez Diaz (luciaalvarezdiaz)
+Lucia Alvarez Diaz ( luciaalvarezdiaz )
+
 Regina Gomez Navarro (reginagomez)
+
 Lucia Alvarez Corada (luciaalcorada) 
+
 Alicia Fernández Sánchez (AliciaFernandezS)
 
 ## Objetivos del trabajo
