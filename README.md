@@ -1,6 +1,6 @@
-# Trivial de ingeniería
+# TIENDA ONLINE
 
-Intentaremos hacer el conocidisimo juego del Trivial con preguntas relacionadas con nuestra carrera. Sera un juego de equipos, y se iran ganando puntos según se acierten las preguntas. Estas preguntas saldran de forma aleatoria y tendran opciones.
+Un progrma en el cual se podran registrar diferentes clientes, que tendran la cpacidad de vender y comprar cualquier tipo de objeto, comida, animal... que venda otro cliente.
 
 ## Integrantes del equipo
 
@@ -14,6 +14,4 @@ Intentaremos hacer el conocidisimo juego del Trivial con preguntas relacionadas 
 
 ## Objetivos del trabajo
 
-Realizar un juego en el que el usuario pueda jugar solo o acompañado y responder una serie de preguntas con el fin de conseguir completar el juego.
-El juego se gana cuando el usuario consigue acertar una pregunta de cada tema: Matemáticas, máquinas eléctricas, química e informática.
-Gracias a esto conseguremos aprender sobre nuestra carrera además de a utilizar github
+Realizar una tienda online capaz de crear catalogos a los diferentes tipos de clientes donde podran poner cualquier objeto a la venta. Ellos decidiran al precio que lo quieren vender, la cantidad de descuento que le quieren hacer al cliente y la cantidad que venderan. A parte de vender objetos, el cliente támbien podra comprarlos a los otros participantes de la tienda.
